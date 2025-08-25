@@ -14,6 +14,6 @@ An interactive web map built with **Leaflet.js**, showcasing key regions of **Ka
 - **Hosting:** GitHub Pages  
 
 ## 📷 Screenshot  
-`screenshot.jpeg`
-```markdown
-![Map Preview](screenshot.jpeg)
+
+![Kazakhstan Map Preview](screenshot.jpeg)
+
